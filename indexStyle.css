@@ -1,0 +1,33 @@
+body {
+    font-family: 'Akshar', sans-serif;
+    background-color: lightblue;
+    color: darkblue;
+}
+h1 {
+    position: relative;
+    bottom: 20px;
+    left: 500px
+}
+.cont_h1 {
+    position: relative;
+    bottom: 20px;
+    left: 250px;
+}
+#cool {
+    position: relative;
+    left: 390px;
+}
+#micc {
+    position: absolute;
+    left: 550px;
+}
+#among {
+    position: absolute;
+    bottom: -40px;
+    left: 625px;
+}
+#sus {
+    position: relative;
+    bottom: -80px;
+    left: 675px;
+}
